@@ -1,0 +1,2 @@
+All files in this repository are copyright (c) Tigera Inc, 2019
+License is limited to non-commercial individual use by CalicoCon event participants only.
